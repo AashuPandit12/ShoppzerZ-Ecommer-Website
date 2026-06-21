@@ -16,7 +16,7 @@ Footer with Social Links
 Favicon Added
 Clean UI Design
 
---
+---
 
 ## 🛠️ Technologies Used
 HTML5
